@@ -13,9 +13,14 @@ The graph was chosen based upon my interest in housing policy. Housing policy is
 
 # Anaylsis of Graph Effectiveness
 
-
-
+Upon first glance, the graph is relatively intuitive to understand. The simplicity in the design allows a reader to understand the comparisons being made amongst the individual markets assessed. The non static nature of the lines, allows for an intuition to understand how housing prices increased and decreased along the studied perid of time. This allows for policy makers to make compelling insights around what events within the 2000's such as elections, recessions, wars etc.. could have had upon housing markets. The trend lines could provide insight into the types of policies whihc have been effective in creation naturally affordable housing prices. 
+It is clear from the graph, that is usefullness is limited by its current scope. The graph could work in conjunction with another graph that provides additional context to regions within the United States. Further a lack of numbers on the graph also make the graph less useful in  terms of overall averages of housing prices. The data set itself did not have housing prices readily available, and without them, the graph misses out on additional clarification of what a drop and or increased percentage needs per individual percentage changes in housing prices. The non use of a title on the y axis to better explain they are percentages, also leads to a lack of transparency and usefullness. If a reader could not associate the y axis with percentages, the the axis and comparing point of the graph becomes unclear.
+  The y axis also has a 0 split in the middle of it, which does not assist with the peceptinility and completeness of the graph. Having a number line in the middle of the graph without dropping the  x axis further down, confused readers with what negative numbers versus positive numbers indicate. This design error decreases the effect of the information, and can leave readers less engaged to the graphs impact. 
+    The intersecting of lines,also decreases the readibility and usefullness of the graph.  As the graph gets further down the scale of time, it becomes more crowded. This leads a loss of engagement as a result of undecipherable results. A spreading out of points along the graph would make the storyclear and allow for easier engagement. 
+    Based upon my analysis of the graph I began to examine new ways into making the graph more effective. I wanted to make the scope of the graph more effective, so I compared regional data which incorporated the use of California and Texas as opposed to the individual states. This would allow the graph  to work in tangent with the visualization which already exists. I also decided to look at making a grouped bar graph, which would allow me to see the gravity of yearly data in a cleaner and more effective perceptive way.  I also wanted to change the title and axis portions of the graph, to enhance usability and  expand graph completeness. In order to work on these updates to the graph, I completed a skecth of my  improvements. 
+    
 # Initial sketch 
+![Assignment 3 ](https://user-images.githubusercontent.com/123436415/217416801-13a28dc9-7a83-4524-81ba-047a0e880c15.JPG)
 
 
 
