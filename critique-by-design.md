@@ -8,6 +8,9 @@ For this weeks graph, I chose a graph found with an analysis of housing markets 
 
 https://apps.urban.org/features/state-economic-monitor/?start=1-2000&end=4-2019&states=CA-TX-US&indicator=house_price_index&unit=change
 
+![Initial Graph](https://user-images.githubusercontent.com/123436415/217417434-ef3e9a61-43fc-4899-b54c-bd57a8e173c0.jpg)
+
+
 The graph was chosen based upon my interest in housing policy. Housing policy is one of my main areas of reseaarch focus, thus selecting a graph relating to a housing topic, allows me to create the best critique and redesigin possible. Further the context of the graph is based upon shifting housing markets throughout California and Texas. The fact the graph shows shiting changes within the data, meaans its impact is not static. This indicates to me that the data behind the graph is compelling and can offer additional stories about regional housing shifts. The non static information also provides additional opportunity to examine markets beyond California and Texas.  The flexibility to add additional means of regional analysis, provides ample opportunity for successful graph redesign, making the graph a compelling candidate for narrative creation. Finally, the topic of housing prices is one that is relevant for ongoing policy makers as affordable housing development becomes more expansive throughout the United States.  
 
 
@@ -21,6 +24,8 @@ It is clear from the graph, that is usefullness is limited by its current scope.
     
 # Initial sketch 
 ![Assignment 3 ](https://user-images.githubusercontent.com/123436415/217416801-13a28dc9-7a83-4524-81ba-047a0e880c15.JPG)
+
+My intial skecth incorporated the ideas which I had based on my critique above. I created grouped color graphs to represent the different times within the study area. This  allowed for a better connection to be understood between the data and the axis. Doing such should have enhanced readability  of the graph. It would also have enhanced the usefullness by examing every individual region within the United States, as opposed to just two States.  I rewrote the title, to try and make the narrative clearer. I also played with light and dark color palates to see the types of colors which could best reflect the data. I played around with the location of the x axis in comparsion to the y, to see if there was a better way to associate the positive and negatives percentage changes.  I also tried to see what would happpen if I expanded the flow of data by adding additional data points  to  the graph. This test sketch interpreted  5 regions within the United States. Clearing out the line graph was also an attempt at to try  and clear the graphs  data clustering providing additional usefulness and transparency.
 
 
 
