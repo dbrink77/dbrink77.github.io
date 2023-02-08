@@ -31,9 +31,18 @@ The idea of the sketch was to see what adding additional information would do, f
 
 
 # Feedback from Peers
+After completing the intial sketch I brought it to some of my peers to provide feedback, resulting in additional design improvements.  I had multiple  peers review my intiial design.  During which, they analyzed the impact of the graphs capability to tell a story and provided ideas for additional redesign 
+
+The first peer, a student in their 20's indicated that the offset color of the graph takes away from its intent. When asked what the graph intially was, they indicated that they believed it to be comparing housing prices within the United States. They found the intial color design to be confusing, because too much color was taking away from overall  story of the graph.  A restructuring of regions was a good idea, but needs to be balanced with usefullness and readability. They indicated that the title and  the % change on the y axis, are disconnected from the representation of the bar graphs, and require the graph be made more static.  The sizeing of spacing of the grouped bars made it easier to have a direct comparsion; however additional work is needed to ensure the year the sizing and the y axis is better constructed to organize the story. 
+
+The second peer, a student in their 30's indicated that they intially could not tell what the graph was trying to indicate. They said that the mass use of color and the misleading titles, lead to a misunderstanding of the  graphs intent.  They also said that the range of percentages on the y axis, was still disconnecting from the main concept.  
+The peer stated that  additional data needs to be represented better through a removal of unncessary color and restrucutre of regional data.  They indicated that a bar graph, although good for grouping differet results, in its curret sketch did not best connect the idea of the percentage change of housing prices. They correctly deduced that the graphs audience is the general public as well as policy analysts. 
+
+Based on the feedback provided from my peers, it was clear that my sketch needed to have several adjustments be made. The first being that there was too much color on the graph. I need to find a way to reduce color while also keeping enough data to add to the completness and usefullness of the graph. Further the right balace of color would help create a better aesthetic for the graph. Secondly both students recommended a better change in  titles and axis design could lead to enhanced clarity. They both also indicated that I needed to strike a balance between expanding detail but not adding too much as to decrease usefullness, and clarity. 
 
 
+# Final Design
+
+Based on the feedback from my peers, as well as the critique of the initial design, I decided to create a grouped bar graph which also had  a line indicating the comparison of United State average data. Doing such enabled me to change the narrative slightly, while keeping high levels of truth within the graph. The graph below represents my redesign. 
 
 
-
-# Final Desig
