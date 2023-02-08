@@ -44,6 +44,7 @@ Based on the feedback provided from my peers, it was clear that my sketch needed
 # Final Design
 
 Based on the feedback from my peers, as well as the critique of the initial design, I decided to create a grouped bar graph which also had  a line indicating the comparison of United State average data. Doing such enabled me to change the narrative slightly, while keeping high levels of truth within the graph. The graph below represents my redesign. 
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/12680327"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
  https://public.flourish.studio/visualisation/1268032
