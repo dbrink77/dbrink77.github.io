@@ -47,9 +47,6 @@ Based on the feedback from my peers, as well as the critique of the initial desi
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12680327"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
- https://public.flourish.studio/visualisation/1268032
-
-
 My new design,incorporated more data while keeping to a comparison that was similar to the intial graph. I changed the title to show an analysis of the Western United States, which allowed mt to compare markets such as California and Texas within wider regions. I also incorporate a new title and y axis title, which better represent the comparison of data. It adds usefullness and completeness to the deisgn, by making the first glance of the graph interpretable as opposed to the first graph. I used  light colors, to represent the bars of two regions of the United States. This added additional data to the graph while balancing for a clean looking graph design that has minmal information. To add distinction to the United  States market, I used a line graph to represent the United States average housing prices. This allowed to keep the strength of the analysis of the first graph while expanding usefulness and completeness. The sleeker design also leads to a higher rate of engagment amongst the audience. The graph also incorporated  feedback by cleaning up the x and y axis designs. The bar graph now pushes the x axis time series below the neagtive numbers on the y axis. This cleans up the design, while making a deeper connection between the percentage changes in housing prices. The new chart alos had time entries for every two years, which cleaned the design while also conintinuing to embrace the data analysis of the graph.
 
 
