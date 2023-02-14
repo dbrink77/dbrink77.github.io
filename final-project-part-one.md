@@ -50,7 +50,29 @@ This section will  concluded the story by arguing for changes in developer based
 The data sources I am using combine the use of federal databases, as well as use of census data and labor statistics. The data sources being used are as follows:
 
 Census- The American Community Survey:
-The American Community Survey provides a wide variety of information around median income, rental costs and rental vacancies. The tables provided allow me to analyze the incorporated data from a variety of different geographical locations. This allows me to make comparisons between  rental vacacny rates over a period of time, simultaneously comparing Pittsburgh to the rest of the Pennsylvania, as well as United States regions and individual states.  I plan on using it to create regional comparisons between vacancy rates, to show the correlation between low vacancy rates, and high costs of rent throghout periods of time before and after the high points of Covid in 2020. I will also be using it for average rental price data as well as for per capita income comparisons. The ACS retal data link is a downloaded and cleaned average rental set, showing the changes in rent from 2010-2021. The per capita income chart, is used to help reflect and correlate rental prices with local Pittsburgh income.
+The American Community Survey provides a wide variety of information around median income, rental costs and rental vacancies. The tables provided allow me to analyze the incorporated data from a variety of different geographical locations. This allows me to make comparisons between  rental vacacny rates over a period of time, simultaneously comparing Pittsburgh to the rest of the Pennsylvania, as well as United States regions and individual states.  I plan on using it to create regional comparisons between vacancy rates, to show the correlation between low vacancy rates, and high costs of rent throghout periods of time before and after the high points of Covid in 2020. 
 https://www.census.gov/housing/hvs/data/rates.html
+
+BEA  Data:
+ I will also be using it for average rental price data as well as for per capita income comparisons. The ACS retal data link is a downloaded and cleaned average rental set, showing the changes in rent from 2010-2021. The per capita income chart, is used to help reflect and correlate rental prices with local Pittsburgh income. The data will be used in a graph comparing higher prices of rent with the share of income used to pay for housing. 
+ Insert downloaded chart
+ 
+ 
+ Subsidy Data information:
+ https://cpd.hud.gov/cpd-public/consolidated-plans
+ The information found using the link above, indicates all of the plans and allocation of federal funds by Pittsburgh. The reports cover the cities expenditures and use  funds relating to CBDG, HOME,HOPWA and additional HUD based programs reflected within the federal subsidy graph. These reports will also give me the number of housing projects developed using the grants, as well as the number of people being served through the grants. This will provide me with additional information to help finalize my graphs, and show the impact that subsidies are having on affordable housing development. It also helps to further argue for a call to action, indicating that federal funds only go so far, and private- public partnerships are required for sustainability. 
+ 
+ Low Income Housing Tax Credit information:
+ The Low Income Housing Tax Credit program, is not a HUD based program, as such it requires a different link to download the data set. The uploaded file, represents all of the different projects that used  LIHTC to create affordable housing wtihin the city. The results will be filtered, to only show proects from 2017- 2022 as the rest of the subsidy data is being analyzed for the same time period. LITHC data will be used to show how many completed projects and how many affordable units were developed within the same time frame. It  will be used to further make the call to action point that additional means of funding and policy changes at the local level are required to ensure sustainable affordable housing for the future.  The link below leads to the main search engine for finding LIHTC data. It is not available in an excel format, so I am going to download the text file and transform it into an excel file, for easy use when making graphs. 
+ 
+ https://lihtc.huduser.gov/
+ 
+ # Method and Medium
+ I intend on creating the project and presentation purely using Shorthand. I do not intend on using any powerpoint presentation, but rather will use the visualizations and narrative written in shorthand, to tell my story.  The use of descriptive titles will allow me to break up my presentation with the aids of the final charts represennted in the previous sections. 
+ 
+ 
+ 
+
+ 
 
 
