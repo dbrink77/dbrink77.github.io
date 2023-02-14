@@ -52,10 +52,16 @@ The data sources I am using combine the use of federal databases, as well as use
 Census- The American Community Survey:
 The American Community Survey provides a wide variety of information around median income, rental costs and rental vacancies. The tables provided allow me to analyze the incorporated data from a variety of different geographical locations. This allows me to make comparisons between  rental vacacny rates over a period of time, simultaneously comparing Pittsburgh to the rest of the Pennsylvania, as well as United States regions and individual states.  I plan on using it to create regional comparisons between vacancy rates, to show the correlation between low vacancy rates, and high costs of rent throghout periods of time before and after the high points of Covid in 2020. 
 https://www.census.gov/housing/hvs/data/rates.html
+[ACS- rental data - final project story line.xlsx](https://github.com/dbrink77/dbrink77.github.io/files/10728616/ACS-.rental.data.-.final.project.story.line.xlsx)
+[ACS- rental vacancy by states.xlsx](https://github.com/dbrink77/dbrink77.github.io/files/10728621/ACS-.rental.vacancy.by.states.xlsx)
+[ACS- Rental vacancy data.xlsx](https://github.com/dbrink77/dbrink77.github.io/files/10728623/ACS-.Rental.vacancy.data.xlsx)
+
+
 
 BEA  Data:
  I will also be using it for average rental price data as well as for per capita income comparisons. The ACS retal data link is a downloaded and cleaned average rental set, showing the changes in rent from 2010-2021. The per capita income chart, is used to help reflect and correlate rental prices with local Pittsburgh income. The data will be used in a graph comparing higher prices of rent with the share of income used to pay for housing. 
- Insert downloaded chart
+ [Per Capita Income.xlsx](https://github.com/dbrink77/dbrink77.github.io/files/10728613/Per.Capita.Income.xlsx)
+
  
  
  Subsidy Data information:
