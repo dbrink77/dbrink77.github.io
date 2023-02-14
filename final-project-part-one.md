@@ -15,30 +15,28 @@ Within this project , I am interested in using data visualizations to show the c
 # Pittsburgh- the more affordable metro area
 This portion of the outline analyzes how Pittsburgh has historically stacked up against other  metropolitan areas throughout the United States. The sketches below indicate and represent that Pittsburgh has predominantly been one of the more affordable areas then other areas. Prior to Covid rental prices remained steady for most markets, and Pittsburghs saw some rise in rent costs, but nearly as big as it did after the Covid years  I want the graphs below to reflect how over the years, Pittsburgh has had a more affordable rate of living then other Metropolitan areas within the NorthEast. Further the graphs would reflect how Pittsburgh compares to overal rates  of regions of the United States. This narrative help sets up the rising problem, being that unstable renting prices and accessibility issues of housing , have turned Pittsburgh into a less affordable city.
 
+![Regional Rental Prices vs  Pittsburgh](https://user-images.githubusercontent.com/123436415/218636917-cd9e026e-5504-4824-80d5-9f7190a7f8cd.JPG)
 
-Add in Sketches around market comparisons 
-
-
-
-
+![Rental Prices Metropolitan areas](https://user-images.githubusercontent.com/123436415/218637040-34eafe4e-2e01-49e5-9d95-731eba22a367.JPG)
 
 # Pittsburgh in Crises: Rising Rents and  Housing Scarcity
-After analyzing pre- 2020 levels of housing affordability, this section elevats the problem that covid brought to Pittsburgh rental prices. A decline in availabe housing units, lead to more competitive higher rents, as more people were looking for less available housing throughout the city. The skecthes below represent this problem by showing overall rental vacancies witin Pittsburgh  versus the rest of Pennsylvania. The line graph will show the relationship between the two areas, while showing how rapid declining vacancy rates means less overal available market rentals.  The Bar Graph and line graph used in the prior section will used to only show the time frame of 2019-2022 to show the immediate impact of COVID on rental markets as opposed to historical trends. 
-
-
+After analyzing pre- 2020 levels of housing affordability, this section elevats the problem that covid brought to Pittsburgh rental prices. A decline in availabe housing units, lead to more competitive higher rents, as more people were looking for less available housing throughout the city. The skecthes below represent this problem by showing overall rental vacancies witin Pittsburgh  versus the rest of Pennsylvania. The line graph will show the relationship between the two areas, while showing how rapid declining vacancy rates means less overal available market rentals.  The Bar Graph and line graph used in the prior section will used to only show the time frame of 2019-2022 to show the immediate impact of COVID on rental markets as opposed to historical trends.
+![Rental vacancies- Pittsburgh vs Pennsylvania](https://user-images.githubusercontent.com/123436415/218637110-60e9e042-c029-4527-84f8-12626630728c.JPG)
 
 
 # Pittsburgh Affordability At an Impasse
 After showing the  housing scarcity and rapid rate of rent increase from the prior section, this section builds upon the problem by showing a graph relating to the breakdown of  Pittsburgh median income versus the avergage yearly rate of rent needed to live within the city. The increase in rental prices over the time frame should  outweigh income growth, showing that Covid rapidly elevated an affordability crises wtihin the city. 
 
-
+[Pittsburgh Rental Vacancies versus Rental Costs](https://user-images.githubusercontent.com/123436415/218637171-e4f482a6-7924-464c-8d15-5f604adf2f8e.JPG)
 
 
 # Afforadable Housing Development to the Rescue?
 
 After analyzing the impact of Covid, this section will provide a solution by showing active use of Federal housing subsidy and grant  programs, to offset pricing out off communities through the creation of affordable housing based projects. This section will also rely upon narrative built through ongoing city policy implementation of encourgaging affordability, through the use of narrative from the mayors transition plan, and recently news articles citing the creation of mixed development units in the Pittsburgh downtwon area in coverted office spaces.  The sketches are to represent the allocation of funding Pittsburgh is using from federal sources to build affordable housing. They further represent how many units of housing will be developed through investing federal funding into city planning. 
 
+![Federal Grant Distribution](https://user-images.githubusercontent.com/123436415/218637272-38541ee5-90b8-4dfa-8898-f4594845280b.JPG)
 
+![Federal Funded Housing Projects](https://user-images.githubusercontent.com/123436415/218637314-a8a48c10-885c-4fa1-a38e-f79806f51c37.JPG)
 
 # Local Changes in Policy to support Private-Public Partnerships
 
