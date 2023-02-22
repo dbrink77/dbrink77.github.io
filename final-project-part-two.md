@@ -73,6 +73,40 @@ a) Given the context of economic mobility and the emphasis on talent retainment,
 
 b) Based on the audience, I needed to find individuals to interview who would have an understanding of both economic development as well as how that plays into the local context of Pittsburgh. Pittsburgh is a very specialized and specific case, so local context is needed to understand if this type of project and visualization works in relation to identifying one small portion of the problem of talent migration. Interviwers also needed to have a understanding of economic development as it pertains to labor markets. Labor migration is a huge field which impacts the economics of industry and patterns of median income.  As a result, given the context of Heinz, it was relatively easy for me to pick three people to interview. I found people who not only had background in visualiations but would be able to identify whether my story is missing compelling narrative in expalning retaining talent within Pittsburgh.
 
+c) Interview Script:
+The questions asked within the interviews were mainly concerned with two core concepts; one being does the story and its flow make senese, and do the graphs help break through complex and complicated ideas. Each interview was asked the following questions:
+1) Does the organization of my current story, going from competitive markets, to Pittsburgh's population loss, to solutions on retaining talent make sense? If it does not  how would you suggest restruturing the story?
+2) Is the flow between visuals and text produced within each section have a nice balance, or does one over populate the other?
+3) Are there certain topics or elements wtihin the current story, which are not present that need to be, in order to help with story telling?
+4) Do the colors and graph selections make sense for the data that they represent? 
+5) Are there types of transitions between the topics which decrease the impact of  stories feasability? 
+6) If there were 3 things that you would change about the formatting of the story what would they be? 
+
+d) Interview Results
+I had the ability to interview 3 different students about my project. The interview results and thoughts from each are found below. 
+
+a) I first interview a Public Policy student within their early 30's. They were selected based on their background in visualization creation and knowledge on economic development. 
+The first thing they indicated was that the organization and structure of my story did not make sense within the context of what I was trying to accomplish. They stated that starting with comparing regional markets, and then moving into population loss within Pittsburgh, could have been two different presentations because there was lack of connection. 
+Secondly they indicate that my line graphs with different housing markets, had to many colors present, and that they were taking from the overal impact the graph had on narrative based context. 
+They did think the use of transitions between slides was useful. Further the limit of text on my graphs made them more appealing and easier to read, they did suggest changing some of the formatting on titles, so that reading becomes clearer. 
+They also talked about how retaining talent is only one part of population loss within Pittsburgh. Retaining talent is a huge part of it, but I should consider additional aspects around population loss if it retains to talent, such as culture and other driving forces. 
+
+b) The second interview was with a Public Policy student who had a background in education and labor econommics. 
+The first thing they mentioned was that the education graphs although useful would be stronger if I broke out the majors of individuals out into groups, so that it would become clearer how they relate to the available market and industry. 
+Further they emphasized that a restructure of topic transitions was needed in order to better connect the ideas of Pittsburgh having a competitive market with its population crises. It can be done, but the narrative around it needs to be air tight. 
+They reccomended ensuring that all my graphs used the same colors, this will make the graphs more uniform in their delivery. They suggested making the color palate black and yellow might appeal to the local context of Pittsburgh better for the audience then its current form.  
+In addition. they mentioned that retainment of college students was the most important value for increasing population, and that I should emphasize that connection even stronger, then it currently is. 
+
+c) The third interview was with a Public Polict student who has a background in understanding the local context around the history of Pittsburgh
+The third interviewer also identified the need for restructure within topic implementation. Moving from market impact to loss of population makes less sense.becuase a large portion of the story is focused on how Pittsburgh can retain talent, thus increasing the population of the citys talent. They stated market comparison is great context, for understanding ways into why Pittsburgh is attractive, and is better used when it is being directly compared to the colleges within Pittsburgh. 
+They emphasized a need in changing some graph design, they felt as though the story had to many bar graphs, and that a differentiation in graphs would be super useful in emphasizing additional points. 
+They did say that it would be interesting to incorporate additional means of population loss, given some government officials and industry leaders would see bigger reasons for explaining population loss beyond the loss of local talent and talent migration. They stated incorporating data relating to vacant property and disinvestment as well as plans on culture and transportation could help expand the context. 
+
+Conclusions from interviews:
+Overall the interviews did point me to the concept and idea that I needed to redevelop the order of my thoughts so that it would help better strucuture the narratives being told. There was disagreement on whether more local context around addiitonal reasons for population loss was more important then just assesing the retaining of talent. I have to take this into consideration  when balancing the validity of my argument. Further the need of color change was identified accross all of the interviews.  Finally, I do agree that I might need additional diversity in my graphs and data sources.
+
+Changes to be implemented:
+Based on the interviews, I will be looking into potentially adding additional reasons for population loss. Looking at aspects of culutre and amenenities as well as development of areas within Pittsburgh could bring another element to my presentation. Further I need to clean up  some of the graphs so that the narrative between them is better implement. Finally, I need to ensure that the transitions work between topics. I will be adding additional context and reorganizing the slides so that the transitions appeal to the audience.
 
 
 
