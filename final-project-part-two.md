@@ -51,6 +51,7 @@ The types of industries and companies represent the new industry developing with
 This graph, helps to show the amount of degrees and majors young talent study while in Pittsburgh. This helps enables the concept and idea of how Pittsburgh has young talent it just needs to retain while they live here as opposed to having them utilize the education system and then leave. 
 
 # Current Enrolled Students
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/12812946"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 Current enrolled students, allow for an understanding for the pool of talent currently available to retain. This is critical for  understanding how Pittsburgh is missing out on potential talent. 
