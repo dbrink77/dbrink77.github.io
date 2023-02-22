@@ -64,7 +64,14 @@ I took the graphs indicated above, and brought them into the story board linked 
 The story is broken into three sections, each having a title to help with story transition.  Graphs were then incorporated into the individual sections, with additional written narraitve to help further branch and link the story together as they unfold. 
 
 
-# User Feedback:
+# Research Protocol
+In order to enhance my visualizations ahead of part 3,  user research and feedback was required.
+
+My project is based wtihin the idea and concept of urban and regional economic development. It attempts to answer a small but inportant field relating to population migration and talent retainment. With a city such as Pittsburgh that has had population decline since its loss of industry in the 1970's it is important to understand even withs advances in tech and highly successful universities, why the population still hasnt grown.
+
+a) Given the context of economic mobility and the emphasis on talent retainment, I believe the audience for this presentation is policy makers and industry professionals. On one hand understanding how you best utilize and retain migrating talent is a regional issues, which impacts the entire mobility and future progression of the city.  It is also critical for industry professionals such as tech hubs. With more and more tech coming to Pittsburgh, their growth will only be capable if they can best understand how to attract and utilize the talent the city already has to offer. 
+
+b) Based on the audience, I needed to find individuals to interview who would have an understanding of both economic development as well as how that plays into the local context of Pittsburgh. Pittsburgh is a very specialized and specific case, so local context is needed to understand if this type of project and visualization works in relation to identifying one small portion of the problem of talent migration. Interviwers also needed to have a understanding of economic development as it pertains to labor markets. Labor migration is a huge field which impacts the economics of industry and patterns of median income.  As a result, given the context of Heinz, it was relatively easy for me to pick three people to interview. I found people who not only had background in visualiations but would be able to identify whether my story is missing compelling narrative in expalning retaining talent within Pittsburgh.
 
 
 
