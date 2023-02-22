@@ -1,6 +1,6 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Vacacny and Population Decline in Pittsburgh
+# Vacancy and Population Decline in Pittsburgh
 Text here!
 Throughout Part I of the Final, I developed sketches and graphs based on the idea and concept of assesing whether incresaed federal subsidy impacts economic development within Pittsburgh. The idea was to analyze federal subsidy programs such as Low Income Housing Tax Credits and CBDG Funding and comapre them over time with housing markets within Pittsburgh and rental vacancy rates. My intial sketches were based on that general idea and concept. 
 After running through the data, looking at prior assignment feedback I realized my scope was too narrow, and that I needed to readjust my focus and skecthes. While wireframing new sketches below, I began to plan a new approach to my final project, which involved a slight change in story. 
